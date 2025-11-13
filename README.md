@@ -57,7 +57,7 @@ Whether you are interested in linguistics, conlang design, phonology, or just wa
 - Build the base vocabulary
 - Develop CLI tools for dictionary management
 - Design example sentences and texts
-- Translate bigger text, as books
+- Translate bigger texts, such as books
 - Eventually publish a complete reference guide
 
 ---
