@@ -1,6 +1,6 @@
 # Dikonari
 ---
-- se: being (special)
+- sa: being (special)
 
 - toki: conversation 
 - ko: travel
