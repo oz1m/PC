@@ -1,4 +1,4 @@
-# Dikonari
+# Dictionary
 ---
 - sa: being (special)
 
