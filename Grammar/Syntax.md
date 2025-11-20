@@ -1,20 +1,6 @@
-# Grammar
+# Syntax 
 ---
-## Pronouns
-
-|     | Singular | Plural |
-| --- | -------- | ------ |
-| 1st | mi       | mis    |
-| 2nd | tu       | tus    |
-| 3rd | le       | les    |
-
-
 ## Verbs
-
-```EBNF
-verb_structure = verb_mood, noun, [verb_tense];
-```
-
 ### Mood Modifiers
 
 - `ni`: The speaker is affirming an information.
@@ -39,9 +25,3 @@ You can't say directly `Mi sa biba` because that literally means `I am life`, an
 - `toki kano` -> "The one who talk" or "speaker"
 
 So, if you want to say "I'm alive", you should say: `Mi sa biba kano`.
-
-## Other
-### Booleans
-
-- `si`: Positive, true, yes
-- `no`: Negative, false, no

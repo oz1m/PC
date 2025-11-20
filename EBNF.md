@@ -1,3 +1,5 @@
+# EBNF
+---
 EBNF (Extended Backus-Naur Form) is a notation for describing the syntax of languages (programming languages included). Since Pisan is simple and consistent enough, it's possible to describe it's whole structural syntax using it:
 
 

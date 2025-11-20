@@ -15,3 +15,4 @@ Words can optionally start with any vowel, if that's the case, the vowel alone w
 
 #### End with consonants
 Words also can end with 's', describing its plural form. In that case, the 's' will be part of the last syllable. 
+yy
