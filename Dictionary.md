@@ -3,10 +3,14 @@
 - sa: being (special)
 
 - toki: conversation 
-- ko: travel
+
+- kone: coming. Noun form, as in homecoming 
+
+- keta: 
 
 - biba: life
-- keta: death 
+
+- cisita: death 
 
 - teno: hold; something that something else have
 

@@ -1,7 +1,3 @@
-<!-- TODO: bro please re-create this from scratch (too AI). -->
-
-
-
 # PC — A Simple and Consistent Constructed Language
 
 **PC** is an open and collaborative conlang (constructed language) designed with one central goal:  
