@@ -9,23 +9,17 @@
 | 3rd | le       | les    |
 
 
-
-
 ## Verbs
 
 ```EBNF
 verb_structure = verb_mood, noun, [verb_tense];
 ```
 
-
-
-
 ### Mood Modifiers
 
 - `ni`: The speaker is affirming an information.
 - `ka`: The speaker is asking for information. Do not confuse with the question specifier `ka`, which is placed at the end of sentences.
 - `go`: The speaker is giving a command; imperative.
-
 
 ### Tense Modifiers
 
@@ -34,9 +28,6 @@ The action is taking place in:
 - `pa`: Past
 - `na`: Present continous
 - Simple present is represented by the absence of any of the modifiers above.
-
-
-
 
 ## Personification
 
@@ -48,9 +39,6 @@ You can't say directly `Mi sa biba` because that literally means `I am life`, an
 - `toki kano` -> "The one who talk" or "speaker"
 
 So, if you want to say "I'm alive", you should say: `Mi sa biba kano`.
-
-
-
 
 ## Other
 ### Booleans
