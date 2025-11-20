@@ -1,4 +1,6 @@
 # Fonetis Tabale
+
+
 ---
 
 |             | Labial | Labiodental | Dental | Alveolar | Post-Alveolar | Velar |

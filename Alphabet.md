@@ -1,13 +1,21 @@
-# 🔠 Alafabete
+# 🔠 Alphabet
+
+
 ---
-## Bocales (5)
+
+## Vowels (5)
+
 - a
 - e
 - i
 - o
 - u
 
-## Kosonates (11)
+
+
+
+## Consonants (11)
+
 - mi
 - ni
 - pi
@@ -20,7 +28,11 @@
 - li
 - ri
 
-## Soniros
+
+
+
+## Sounds
+
 - ma, me, mi, mo, mu
 - na, ne, ni, no, nu
 - pa, pe, pi, po, pu
