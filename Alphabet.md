@@ -28,8 +28,8 @@
 |             | Labial | Labiodental | Dental | Alveolar | Post-Alveolar | Velar |
 | ----------- | ------ | ----------- | ------ | -------- | ------------- | ----- |
 | Nasal       | m      |             |        | n        |               |       |
-| Oclusive    | p      |             | t      |          |               | k     |
-| Fricative   | b      | f           |        | s        |               |       |
+| Oclusive    | p      |             |        | t        |               | k     |
+| Fricative   | b      | f           |        | s        |               | g     |
 | Affricative |        |             |        |          | c             |       |
 | Special     |        |             |        | l,r      |               |       |
 |             |        |             |        |          |               |       |

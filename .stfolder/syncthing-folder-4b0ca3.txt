@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: waqsv-7kac4
+created: 2025-11-20T09:59:00-05:00

@@ -2,21 +2,66 @@
 ---
 - sa: being (special)
 
+- siu: state (also special)
+
+- kiki: a go
+
 - toki: conversation 
 
 - kone: coming. Noun form, as in homecoming 
-
-- keta: 
 
 - biba: life
 
 - cisita: death 
 
-- teno: hold; something that something else have
+- teno: possession
 
-- loki: look, comparation
+- loki: look
 
 - turi: change
 
-- kosa: value, thing; 1,2,3 are the "kosa" of numbers, blue, red, yellow are the "kosa" of colors. If you have something, that something is your kosa
+- kosa: Unknown thing, it 
 
+- raesao: reason 
+
+- katae: question
+
+- kareto: creation
+
+- kani: dog
+
+- kiti: cat
+
+- kotoba: word
+
+- kome: food 
+
+- luperi: wolf
+
+- reale: reality
+
+- mate: stop, wait (noun form)
+
+- taribe: starvation
+
+- bugi: insect 
+
+- taraci: trash
+
+-  bugitaraci: cockrocach
+
+- guane: something you want 
+
+- nesetio: something you need
+
+- like: a like 
+
+- nimale: animal
+
+- peteo: pet
+
+- solo: lonliness 
+
+- nisa: sibling
+
+- muito: big amount of something 
