@@ -20,7 +20,7 @@
 
 - turi: change
 
-- kosa: Unknown thing, it 
+- kosa: unknown thing, it 
 
 - raesao: reason 
 
@@ -40,7 +40,7 @@
 
 - reale: reality
 
-- mate: stop, wait (noun form)
+- mate: stop, a wait (noun form)
 
 - taribe: starvation
 
@@ -65,3 +65,9 @@
 - nisa: sibling
 
 - muito: big amount of something 
+
+- boru: mind 
+
+- borusa: though 
+
+- yoki: container
