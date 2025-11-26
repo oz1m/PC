@@ -6,14 +6,6 @@ Normally, nouns that end with "s" will refer and a more than one amount of that 
 - `nisa` -> sibling | `nisas` -> "siblings" 
 
 
-## Pronouns
-
-|     | Singular | Plural |
-| --- | -------- | ------ |
-| 1st | mi       | mis    |
-| 2nd | tu       | tus    |
-| 3rd | le       | les    |
-
 ## Suffix
 ### `sa`
 The "sa" suffix comes from the "kosa" word. It basically convert its root into the thing that the root holds: 
