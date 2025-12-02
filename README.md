@@ -1,26 +1,28 @@
 # PC — A Simple and Consistent Constructed Language
 
 **PC** is an open and collaborative conlang (constructed language) designed with one central goal:  
-**keep everything simple, consistent, and logical.**
+**Keep everything simple, consistent, and logical.**
 
-No irregularities.  
-No hidden complexity.  
-A language shaped by clear rules, community discussion, and iterative improvement.
+- No irregularities  
+- No hidden complexity  
+- A language shaped by clear rules, community discussion, and interactive improvement.
+
+That principle of consistency eases the analysis of the whole language structure programatically, allowing the development of tools like the official [Pisan's Syntactic Analyzer](https://github.com/Ravmnn/Psyan).
 
 ---
 
-## 🧠 Core Principles
+## Core Principles
 
 PC is built on a few foundational ideas:
 
-- **Phonetic simplicity** — All words follow predictable CV-based syllable structures.
-- **Logical grammar** — Rules should be minimal, universal, and easy to apply.
-- **Consistency over tradition** — Every feature must follow from a clear internal logic.
-- **Community-driven evolution** — Proposals and discussion shape the language.
+- **Phonetic simplicity:** All words follow predictable CV-based (Consonant, Vowel) syllable structures.
+- **Logical grammar:** Rules should be minimal, universal, and easy to apply.
+- **Consistency over tradition:** Every feature must follow from a clear internal logic.
+- **Community-driven evolution:** Proposals and discussion shape the language.
 
 ---
 
-## 📜 Current Rules
+## Current Rules
 
 The evolving rules of the language are maintained in:
 
@@ -35,7 +37,7 @@ As the language develops, these documents will grow with examples, clarification
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 PC is intentionally open. You are invited to:
 
@@ -50,7 +52,7 @@ Whether you are interested in linguistics, conlang design, phonology, or just wa
 
 ---
 
-## 🚀 Roadmap
+## Roadmap
 
 - Expand phonetic and morphological rules
 - Define core grammar structures
@@ -62,7 +64,7 @@ Whether you are interested in linguistics, conlang design, phonology, or just wa
 
 ---
 
-## 🌐 Join the Evolution of PC
+## Join the Evolution of PC
 
 PC is more than a conlang — it’s a growing experiment in linguistic design.  
 If you enjoy languages, structure, logic, or creation, you’re welcome here.
