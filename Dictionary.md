@@ -168,4 +168,4 @@
 
 - to: A to B -> A for B
 
-- be: A ke B -> A when B
+- be: A be B -> A when B
