@@ -132,7 +132,9 @@
 - na: aspect specifier particle: imperfect, continuous 
 
 ### Sentences modifier
-- li: object specifier. Noun in the left is the object of the verb in the current sentence  
+- li: object specifier. Noun in the right is the object of the verb in the current sentence.
+
+- ke: indirect object specifier. Noun in the right is the destination of the sentence.
 
 - du: possessive specifier. Noun in the left is possessed by noun in the right (ex.: kani du mi) 
 
@@ -166,4 +168,4 @@
 
 - to: A to B -> A for B
 
-- ke: A ke B -> A when B
+- be: A ke B -> A when B
