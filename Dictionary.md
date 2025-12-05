@@ -17,6 +17,10 @@
 
 * **cisita:** death
 
+- **mita:** half 
+
+- **nani :** any
+
 * **code:** programming
 
 * **cuda:** help
@@ -79,13 +83,21 @@
 
 * **nisalesu:** only child, something that doesn't have siblings
 
-* **paragua:** umbrella
+* **mateguare:** umbrella
+
+- **guare**: water/liquid
 
 * **peteo:** pet
 
+- **likae:** liquid
+
+- **sosoe:** solid
+
+- **gasoe**: gas
+
 * **pomo:** permission
 
-* **raesao:** reason
+* **raeso:** reason
 
 * **raine:** rain
 
@@ -122,6 +134,24 @@
 - **sina**: plural
 
 - **deci**: a saying 
+
+- **guoka**: work
+
+- **todoci**: friend/ally
+
+- **daite**: day 
+
+- **daimita:** half of day
+
+- **noite**: night  
+
+- **noimita:** half of night
+
+- **guise**: week
+
+- **guigedo**: weekend
+
+- **guitesa**: week day
 
 ## Auxiliary verbs
 - ni keca: 
@@ -183,7 +213,7 @@
 
 - co: XOR relationship between nouns
 
-- ne: A ne B -> A inside B
+- be: A be B -> A inside B
 
 - du: A du B -> A is part of B 
 
@@ -193,4 +223,4 @@
 
 - to: A to B -> A for/because B. The reason of A is B 
 
-- be: A be B -> A when B
+- ne: A ne B -> A when/at B. A at the time of B

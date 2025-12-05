@@ -30,7 +30,7 @@
 | ----------- | ------ | ----------- | ------ | -------- | ------------- | ----- |
 | Nasal       | m      |             |        | n        |               |       |
 | Oclusive    | p      |             |        | t        |               | k     |
-| Fricative   | b      | f           |        | s        |               | g     |
+| Fricative   | b      | f           | d      | s        |               | g     |
 | Affricative |        |             |        |          | c             |       |
 | Special     |        |             |        | l,r      |               |       |
 |             |        |             |        |          |               |       |
