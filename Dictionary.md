@@ -1,121 +1,121 @@
 # Dictionary
 ---
 ## Nouns 
-- sate: being 
+* **bare:** back
 
-- sesu: state 
+* **biba:** life
 
-- seno: knowledge
+* **boru:** mind
 
-- kiki: a go
+* **borulesu:** brainless, dumb
 
-- dabure: silence 
+* **borusa:** though
 
-- geta: get
+* **bugi:** insect
 
-- toki: conversation 
+* **bugitaraci:** cockrocach
 
-- kone: coming. Noun form, as in homecoming 
+* **cisita:** death
 
-- biba: life
+* **code:** programming
 
-- cisita: death 
+* **cuda:** help
 
-- teno: possession
+* **dabure:** silence
 
-- game: game
+* **fore:** front
 
-- loki: look
+* **gabe:** a gift, something was gave to you
 
-- turi: change
+* **game:** game
 
-- kosa: unknown thing, it 
+* **gedo:** end
 
-- raesao: reason 
+* **geta:** get
 
-- katae: question
+* **goke:** joke
 
-- tesa: start
+* **guane:** something you want (usando `guane` de Lista 2)
 
-- gedo: end 
+* **kacoro:** dog
 
-- goke: joke
+* **kareto:** creation
 
-- ruku: walk
+* **katae:** question
 
-- kore: run
+* **kiki:** a go
 
-- kareto: creation
+* **kiti:** cat
 
-- paragua: umbrella 
+* **kome:** food
 
-- cuda: help
+* **kone:** coming. Noun form, as in homecoming
 
-- kacoro: dog
+* **kore:** run
 
-- kiti: cat
+* **kosa:** unknown thing, it
 
-- kotoba: word
+* **kotoba:** word
 
-- kome: food 
+* **kuta:** cuteness
 
-- luperi: wolf
+* **like:** a like
 
-- reale: reality
+* **loki:** look
 
-- mate: stop, a wait (noun form)
+* **luperi:** wolf
 
-- taribe: starvation
+* **mate:** stop, a wait (noun form)
 
-- bugi: insect 
+* **muito:** big amount of something
 
-- taraci: trash
+* **nesetio:** something you need
 
--  bugitaraci: cockrocach
+* **nimale:** animal
 
-- guane: something you want 
+* **nisa:** sibling
 
-- nesetio: something you need
+* **nisalesu:** only child, something that doesn't have siblings
 
-- gabe: a gift, something was gave to you 
+* **paragua:** umbrella
 
-- like: a like 
+* **peteo:** pet
 
-- nimale: animal
+* **pomo:** permission
 
-- peteo: pet
+* **raesao:** reason
 
-- solo: lonliness 
+* **raine:** rain
 
-- nisa: sibling
+* **rala:** relation
 
-- nisalesu: only child, something that doesn't have siblings
+* **reale:** reality
 
-- muito: big amount of something 
+* **retune:** return
 
-- pomo: permission 
+* **ruku:** walk
 
-- boru: mind 
+* **sate:** being
 
-- raine: rain
+* **seno:** knowledge
 
-- borusa: though 
+* **sesu:** state
 
-- borulesu: brainless, dumb
+* **solo:** lonliness
 
-- rala: relation 
+* **taraci:** trash
 
-- retune
+* **taribe:** starvation
 
-- yoki: container
+* **teno:** possession
 
-- kuta: cuteness
+* **tesa:** start 
 
-- code: programming
+* **toki:** conversation
 
-- bare: back
+* **turi:** change
 
-- fore: front
+* **boki:** container
 
 ## Auxiliary verbs
 - ni keca: 
