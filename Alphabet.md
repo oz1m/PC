@@ -22,6 +22,8 @@
 - c
 - l
 - r
+- d
+- g 
 
 ## IPA chart
 

@@ -27,6 +27,8 @@
 
 * **gabe:** a gift, something was gave to you
 
+- **gaca:** understanding
+
 * **game:** game
 
 * **gedo:** end
@@ -35,7 +37,7 @@
 
 * **goke:** joke
 
-* **guane:** something you want (usando `guane` de Lista 2)
+* **guane:** something you want 
 
 * **kacoro:** dog
 
@@ -69,7 +71,7 @@
 
 * **muito:** big amount of something
 
-* **nesetio:** something you need
+* **nese:** something you need
 
 * **nimale:** animal
 
@@ -116,6 +118,10 @@
 * **turi:** change
 
 * **boki:** container
+
+- **sina**: plural
+
+- **deci**: a saying 
 
 ## Auxiliary verbs
 - ni keca: 
