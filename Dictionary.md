@@ -35,7 +35,7 @@
 
 - katae: question
 
-- sata: start
+- tesa: start
 
 - gedo: end 
 
@@ -73,9 +73,11 @@
 
 -  bugitaraci: cockrocach
 
-- guana: something you want 
+- guane: something you want 
 
 - nesetio: something you need
+
+- gabe: a gift, something was gave to you 
 
 - like: a like 
 
@@ -91,6 +93,8 @@
 
 - muito: big amount of something 
 
+- pomo: permission 
+
 - boru: mind 
 
 - raine: rain
@@ -99,11 +103,24 @@
 
 - borulesu: brainless, dumb
 
+- rala: relation 
+
+- retune
+
 - yoki: container
 
 - kuta: cuteness
 
 - code: programming
+
+- bare: back
+
+- fore: front
+
+## Auxiliary verbs
+- ni keca: 
+
+- ni lica: 
 
 ## Particles
 ### booleans
@@ -128,26 +145,22 @@
 - pa: tense specifier particle: past
 
 - fu: tense specifier particle: future  
+### Aspect 
+- te:  iniziative 
 
-- na: aspect specifier particle: imperfect, continuous 
+- ge: terminative
+
+- na: imperfect, continuous 
 
 ### Sentences modifier
 - li: object specifier. Noun in the right is the object of the verb in the current sentence.
 
 - ke: indirect object specifier. Noun in the right is the destination of the sentence.
 
+## Preposition
 - du: possessive specifier. Noun in the left is possessed by noun in the right (ex.: kani du mi) 
 
-- ro: OR append object specifier. If a sentence already have a object "li", use "ro" to create a either/or relationship between the objects: 
-
-"Mi ni guana li kity, **ro** li kani" -> "I want a cat **or** a dog"
-
-- ci: AND append object specifier. If a sentence already have a object "li", use "ci" to create a both/and relationship between the objects:
-
-"Mi ni guana li kity, **ci** li kani" -> "I want a cat **and** a dog"
-
 ### Conjunctions
-
 - so: causal forward link | cause -> effect: 
 
 - ma: contrastive adversative, opposition between both sentences:
@@ -158,6 +171,12 @@
 
 - fi: if-statement. Use it with "so" to create subordinator composed sentences
 ### Prepositions
+- ro: OR relationship between nouns
+
+- ci: AND relationship between nouns
+
+- co: XOR relationship between nouns
+
 - ne: A ne B -> A inside B
 
 - du: A du B -> A is part of B 
@@ -166,6 +185,6 @@
 
 - bi: A bi B -> A is made by B
 
-- to: A to B -> A for B
+- to: A to B -> A for/because B. The reason of A is B 
 
 - be: A be B -> A when B
