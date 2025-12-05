@@ -9,8 +9,7 @@
 - o
 - u
 
-## Consonants (11)
-
+## Consonants (13)
 - m
 - n
 - p
