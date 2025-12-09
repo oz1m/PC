@@ -6,7 +6,7 @@ EBNF (Extended Backus-Naur Form) is a notation for describing the syntax of lang
 ```EBNF
 text = sentence, { sentence };
 
-sentence = [subject], verb, [modifier], [object];
+sentence = [linker], [subject], verb, [modifier], [indirect_object], [direct_object];
 
 subject = pronoun | noun, [adjective];
     
@@ -22,9 +22,11 @@ verb = [negation], mood, noun, [tense], [aspect];
     
     tense = "pa" | "fu";
     
-    aspect = "na";
+    aspect = "na" | "te" | "ge";
 
 modifier = "TODO";
 
-object = "li", noun;
+indirect_object = "ke", noun;
+
+direct_object = "li", noun;
 ```
