@@ -24,6 +24,7 @@
 - d
 - g 
 
+---
 ## IPA chart
 
 |             | Labial | Labiodental | Dental | Alveolar | Post-Alveolar | Velar |
