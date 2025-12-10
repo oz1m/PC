@@ -6,15 +6,14 @@ EBNF (Extended Backus-Naur Form) is a notation for describing the syntax of lang
 ```EBNF
 text = sentence, { sentence };
 
-sentence = [linker], [subject], verb, [modifier], [indirect_object], [direct_object];
+sentence = [linker], [temporal_adjunt],[subject], verb, [modifier], [indirect_object], [direct_object];
 
-subject = pronoun | noun, [adjective];
-    
+subject = pronoun | noun, [adjective], [prepositions];
     pronoun = "mi" | "mis" | "tu" | "tus" | "le", "les";
     
     adjective = "TODO";
 
-verb = [negation], mood, noun, [tense], [aspect];
+verb = [negation], mood, verb, [tense], [aspect], [adverb], [prepositions];
     
     negation = "no" | "si";
     
