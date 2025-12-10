@@ -3,8 +3,8 @@
 ## Words
 ### Spatial Entities
 #### Direction
-- **tobo**: down
 - **rupa**: up
+- **tobo**: down
 - **bare**: back
 - **fore**: front
 - **cidari**: left
@@ -15,6 +15,7 @@
 - **pasecito**: position in space
 - **cika**: time
 - **cikacito**: position in time
+---
 ### Temporal Entities
 #### Time Units
 - **roira**: hour
@@ -35,12 +36,13 @@
 - **naigedo**: end-of-year
 - **daibare**: yesterday
 - **daifore**: tomorrow
+---
 ### Quantitative Entities
 - **mita**: half.
 - **muito**: large amount.
 - **nani**: any, any amount.
 - **nona**: nothing.
-### Physical Entities
+### Object
 #### Substances
 - **guare**: water/liquid.
 - **likae**: liquid.
@@ -50,6 +52,7 @@
 - **boki**: container.
 - **mateguare**: umbrella.
 - **kome**: food.
+---
 ### Biological Entities
 #### Organisms
 - **nimale**: animal
@@ -63,9 +66,11 @@
 - **biba**: life
 - **cisita**: death
 #### Social Relations
-- **mama:** parents
+- **mama:** parent
 - **nisa**: sibling
 - **nisalesu**: only child
+- **todoci**: friend/ally
+---
 ### Mental / Cognitive Entities
 #### Mind and Thought
 - **boru**: mind
@@ -77,25 +82,29 @@
 - **toki**: conversation
 - **kotoba**: word
 - **deci**: saying
-### Abstract Process Entities
+### Process Entities
 #### Space
 - **labe:** exit 
 - **tine:** entry
+- **tese**: start. Start as a point in a process
+- **gedo**: end. End as a point in a process
+## Copular
 - **sate**: being
 - **sesu**: state
+#### Derived actions
+- **kiki:** refer to the movement to a specific position
 - **kore**: running
 - **ruku**: walking
-- **geta**: getting
-- fosu: fix
+- **fosu:** fix
 - **kone**: returning
 - **turi**: changing
 - **mate**: waiting/stopping
+- **geta**: something you got
 - **dabure**: silence. Silence as a state or process
 - **goke**: joke. Joke as an event
 - **loki**: look. Look as the act of looking
 - **kareto**: creation. Creation as a process
-- **tese**: start. Start as a point in a process
-- **gedo**: end. End as a point in a process
+- **dona:** gift
 ### Abstract Entities
 - **kosa**: unknown thing
 - **reale**: reality
@@ -107,11 +116,11 @@
 - **nese**: something needed
 - **pomo**: permission
 ### Social / Functional Entities
-- **todoci**: friend/ally
 - **guoka**: work
 ### Grammatical entities
 #### Auxiliary verbs
-- **ni keca**: invert the
+- **ni lica**: voice modifier: invert the subject with the direct object, and the object with the subject
+- **ni keca**: voice modifier: invert the subject with the indirect object, and the object with the subject
 #### Number specifier
 - **sina**: plural
 ---
@@ -141,6 +150,11 @@
 - **mi:** first person pronoun
 - **tu:** second person pronoun
 - **le:** third person pronoun 
+- **ti**: "it". Used for unknown things or in substitution of already mentioned 
+### Deixis
+- **tei:** this, the. Near to the speaker, also work as demonstrative of prominence
+- **rei:** near to the listener
+- **cae:** far from the speaker and the listener 
 ### Noun-to-verb mood 
 - **ni:** noun-to-verb particle, mood specifier. Mood: informing
 - **ka:**  noun-to-verb particle, mood specifier. Mood: questioning 
@@ -156,20 +170,33 @@
 - **li:** object specifier. Noun in the right is the object of the verb in the current sentence.
 - **ke:** indirect object specifier. Noun in the right is the destination of the sentence.
 - **ko:** relative clause closing marker 
+### Prepositions
+#### Agent
+- **bi:** A bi B -> A is made by B
+#### Grouping
+- **ro:** OR relationship between nouns
+- **ci:** AND relationship between nouns
+- **co:** XOR relationship between nouns
+- **ga:** A ga B -> A is with B 
+#### Position
+- **be:** A be B -> A inside B
+- **ra:** A ra B -> A is outside of B
+- **ru:** A ru B -> A is above B 
+- **to:** A to B -> A is below B
+- **ba:** A ba B -> A is back to B 
+- **fo:** A fo B -> A is in front of B
+#### Direction
+- **ki:** A ki B → A goes toward B 
+- **sa:** A sa B → A originates from B 
+- **mu:** A mu B → A moves through/across B 
+#### Composition
+- **du:** A du B -> A is possessed by B / B have A 
+#### Cause and effect
+- **ro:** A ro B -> A for/because B. The reason of A is B 
+- **ne:** A ne B -> A when/at B. A at the time of B
 ### Conjunctions
 - **so:** causal forward link. Cause -> effect: 
 - **ma:** contrastive adversative, opposition between both sentences:
 - **ta:** sequential temporal link:
 - **bo:** causal backward link. Effect -> cause: 
 - **fi:** if-statement. Use it with "so" to create subordinator composed sentences
-### Prepositions
-- **ro:** OR relationship between nouns
-- **ci:** AND relationship between nouns
-- **co:** XOR relationship between nouns
-- **be:** A be B -> A inside B
-- **du:** A du B -> A is part of B 
-- **gu:** A gu B -> A is with B 
-- **guo:** A guo B -> A is without B 
-- **bi:** A bi B -> A is made by B
-- **to:** A to B -> A for/because B. The reason of A is B 
-- **ne:** A ne B -> A when/at B. A at the time of B
