@@ -53,7 +53,7 @@
 - **mateguare**: umbrella.
 - **kome**: food.
 ---
-### Biological Entities
+### Natural Entities
 #### Organisms
 - **nimale**: animal
 - **bugi**: insect
@@ -65,11 +65,14 @@
 #### Life/Death States
 - **biba**: life
 - **cisita**: death
+---
+### Social Entities 
 #### Social Relations
 - **mama:** parent
 - **nisa**: sibling
 - **nisalesu**: only child
 - **todoci**: friend/ally
+
 ---
 ### Mental / Cognitive Entities
 #### Mind and Thought
@@ -153,7 +156,7 @@
 - **ti**: "it". Used for unknown things or in substitution of already mentioned 
 ### Deixis
 - **tei:** this, the. Near to the speaker, also work as demonstrative of prominence
-- **rei:** near to the listener
+- **dea:** near to the listener
 - **cae:** far from the speaker and the listener 
 ### Noun-to-verb mood 
 - **ni:** noun-to-verb particle, mood specifier. Mood: informing
@@ -173,6 +176,7 @@
 ### Prepositions
 #### Agent
 - **bi:** A bi B -> A is made by B
+- **fa:** A fa B -> A is about B 
 #### Grouping
 - **ro:** OR relationship between nouns
 - **ci:** AND relationship between nouns
