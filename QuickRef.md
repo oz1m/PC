@@ -1,20 +1,33 @@
 # Quickref
 ---
 ## Words
+---
+### Objects
+#### Arquitecture
+- **getera**: gate, door
+
+---
 ### Spatial Entities
-#### Direction
+#### Position
 - **rupa**: up
 - **tobo**: down
 - **bare**: back
 - **fore**: front
 - **cidari**: left
 - **cikosi**: right
+#### Directions
+- kini: in, inside 
+- kipa: out, outside
+- **labe:** exit 
+- **tine:** entry
 #### Space/Time
 - **cito**: position
 - **pase**: space
 - **pasecito**: position in space
 - **cika**: time
 - **cikacito**: position in time
+- **tese**: start. Start as a point in a process or space
+- **gedo**: end. End as a point in a process or space
 ---
 ### Temporal Entities
 #### Time Units
@@ -38,10 +51,12 @@
 - **daifore**: tomorrow
 ---
 ### Quantitative Entities
-- **mita**: half.
-- **muito**: large amount.
-- **nani**: any, any amount.
+- **masa:** all
+- **muito**: large amount
+- **mita**: half
+- **kuti:** small amount
 - **nona**: nothing.
+- **nani**: At least one element of the group
 ### Object
 #### Substances
 - **guare**: water/liquid.
@@ -81,20 +96,19 @@
 - **gaca**: understanding
 #### Knowledge
 - **seno**: knowledge
+#### Feelings
+- **copi:** happiness
 ### Linguistic Entities
+- **kati:** question
 - **toki**: conversation
 - **kotoba**: word
 - **deci**: saying
+---
 ### Process Entities
-#### Space
-- **labe:** exit 
-- **tine:** entry
-- **tese**: start. Start as a point in a process
-- **gedo**: end. End as a point in a process
-## Copular
+#### Copular
 - **sate**: being
 - **sesu**: state
-#### Derived actions
+#### Actions
 - **kiki:** refer to the movement to a specific position
 - **kore**: running
 - **ruku**: walking
@@ -108,6 +122,7 @@
 - **loki**: look. Look as the act of looking
 - **kareto**: creation. Creation as a process
 - **dona:** gift
+- **kuta:** song 
 ### Abstract Entities
 - **kosa**: unknown thing
 - **reale**: reality
@@ -153,7 +168,12 @@
 - **mi:** first person pronoun
 - **tu:** second person pronoun
 - **le:** third person pronoun 
-- **ti**: "it". Used for unknown things or in substitution of already mentioned 
+- **ti**: "it". Used for unknown things or in substitution of something already mentioned 
+#### Possessive
+- **mio:**  first person  
+- **tuo:** second person 
+- **leo:** third person  
+- **tio:** "ti" possessive 
 ### Deixis
 - **tei:** this, the. Near to the speaker, also work as demonstrative of prominence
 - **dea:** near to the listener
@@ -200,7 +220,7 @@
 - **ne:** A ne B -> A when/at B. A at the time of B
 ### Conjunctions
 - **so:** causal forward link. Cause -> effect: 
+- **bo:** causal backward link. Effect -> cause: 
 - **ma:** contrastive adversative, opposition between both sentences:
 - **ta:** sequential temporal link:
-- **bo:** causal backward link. Effect -> cause: 
 - **fi:** if-statement. Use it with "so" to create subordinator composed sentences
