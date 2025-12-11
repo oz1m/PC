@@ -52,11 +52,18 @@
 ---
 ### Quantitative Entities
 - **masa:** all
+- **nona**: none
+#### Proportions
 - **muito**: large amount
 - **mita**: half
 - **kuti:** small amount
-- **nona**: nothing.
-- **nani**: At least one element of the group
+##### Numeric proportions
+- **toeto:** 1/3
+- **foeto:** 1/4
+- **caeto:** 1/8
+#### Plurals 
+- **nani**: more than one but not all
+- **sani**: plural amount
 ### Object
 #### Substances
 - **guare**: water/liquid.
@@ -104,6 +111,10 @@
 - **kotoba**: word
 - **deci**: saying
 ---
+### Descriptive terms
+#### Comparative
+- **sama:** similarity or something that is similar 
+---
 ### Process Entities
 #### Copular
 - **sate**: being
@@ -139,8 +150,6 @@
 #### Auxiliary verbs
 - **ni lica**: voice modifier: invert the subject with the direct object, and the object with the subject
 - **ni keca**: voice modifier: invert the subject with the indirect object, and the object with the subject
-#### Number specifier
-- **sina**: plural
 ---
 ### Numbers
 - **nona**: 0
@@ -164,6 +173,7 @@
 ### booleans
 - **si:** affirmation, yes
 - **no:** negation, no, not
+---
 ### Pronouns
 - **mi:** first person pronoun
 - **tu:** second person pronoun
@@ -174,53 +184,63 @@
 - **tuo:** second person 
 - **leo:** third person  
 - **tio:** "ti" possessive 
+---
 ### Deixis
 - **tei:** this, the. Near to the speaker, also work as demonstrative of prominence
 - **dea:** near to the listener
 - **cae:** far from the speaker and the listener 
+---
 ### Noun-to-verb mood 
 - **ni:** noun-to-verb particle, mood specifier. Mood: informing
 - **ka:**  noun-to-verb particle, mood specifier. Mood: questioning 
 - **go:** noun-to-verb particle, mood specifier. Mood: commanding 
+---
 ### Tense 
 - **pa:** tense specifier particle: past
 - **fu:** tense specifier particle: future  
+---
 ### Aspect 
 - **te:**  iniziative 
 - **ge:** terminative
 - **na:** imperfect, continuous 
+---
 ### Sentences modifier
 - **li:** object specifier. Noun in the right is the object of the verb in the current sentence.
 - **ke:** indirect object specifier. Noun in the right is the destination of the sentence.
 - **ko:** relative clause closing marker 
-### Prepositions
-#### Agent
-- **bi:** A bi B -> A is made by B
-- **fa:** A fa B -> A is about B 
-#### Grouping
-- **ro:** OR relationship between nouns
-- **ci:** AND relationship between nouns
-- **co:** XOR relationship between nouns
-- **ga:** A ga B -> A is with B 
-#### Position
-- **be:** A be B -> A inside B
-- **ra:** A ra B -> A is outside of B
-- **ru:** A ru B -> A is above B 
-- **to:** A to B -> A is below B
-- **ba:** A ba B -> A is back to B 
-- **fo:** A fo B -> A is in front of B
-#### Direction
-- **ki:** A ki B → A goes toward B 
-- **sa:** A sa B → A originates from B 
-- **mu:** A mu B → A moves through/across B 
-#### Composition
-- **du:** A du B -> A is possessed by B / B have A 
-#### Cause and effect
-- **ro:** A ro B -> A for/because B. The reason of A is B 
-- **ne:** A ne B -> A when/at B. A at the time of B
+---
 ### Conjunctions
 - **so:** causal forward link. Cause -> effect: 
 - **bo:** causal backward link. Effect -> cause: 
 - **ma:** contrastive adversative, opposition between both sentences:
 - **ta:** sequential temporal link:
 - **fi:** if-statement. Use it with "so" to create subordinator composed sentences
+---
+### Prepositions
+#### Agent
+- **bi:** A is made by B
+#### Grouping
+- **ro:** OR relationship between nouns
+- **do:** AND relationship between nouns
+- **co:** XOR relationship between nouns
+- **ga:**  A is with B 
+#### Position
+- **be:**  A inside B
+- **ra:**  A outside B
+- **ru:**  A above B 
+- **to:**  A below B
+- **ba:**  A back to B 
+- **fo:**  A in front of B
+- **ci:** A next to/around B
+#### Direction
+- **ki:** A goes toward B 
+- **de:** A originates from B 
+- **mu:** A moves through/across B 
+#### Composition 
+- **du:** A is possessed by B / B have A 
+- **su:** A possesses B
+- **fa:** A is about B 
+- **sa:** A is like/similar to B
+#### Cause and effect
+- **ro:** A for/because B. The reason of A is B 
+- **ne:** A when/at B. A at the time of B
