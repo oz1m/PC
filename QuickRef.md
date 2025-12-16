@@ -3,6 +3,8 @@
 ## Words
 ---
 ### Objects
+#### Body parts
+- **boru**: mind
 #### Arquitecture
 - **getera**: gate, door
 
@@ -16,8 +18,8 @@
 - **cidari**: left
 - **cikosi**: right
 #### Directions
-- kini: in, inside 
-- kipa: out, outside
+- **kini: in, inside 
+- **kipa:** out, outside
 - **labe:** exit 
 - **tine:** entry
 #### Space/Time
@@ -30,6 +32,8 @@
 - **gedo**: end. End as a point in a process or space
 ---
 ### Temporal Entities
+- **cikae:** early
+- **cikao:** late
 #### Time Units
 - **roira**: hour
 - **roimita**: half of hour
@@ -80,9 +84,8 @@
 - **nimale**: animal
 - **bugi**: insect
 - **bugitaraci**: cockroach
-- **kacoro**: dog
-- **kiti**: cat
-- **luperi**: wolf
+- **kanao**: dog
+- **katao**: cat
 - **peteo**: pet
 #### Life/Death States
 - **biba**: life
@@ -96,15 +99,14 @@
 - **todoci**: friend/ally
 
 ---
-### Mental / Cognitive Entities
-#### Mind and Thought
-- **boru**: mind
-- **borulesu**: brainless
-- **gaca**: understanding
+### Cognitive Entities
 #### Knowledge
 - **seno**: knowledge
-#### Feelings
+#### Feelings/Moods
 - **copi:** happiness
+- **kora**: sadness
+- **pona:** goodness
+- **rike:** badness
 ### Linguistic Entities
 - **kati:** question
 - **toki**: conversation
@@ -112,40 +114,62 @@
 - **deci**: saying
 ---
 ### Descriptive terms
+#### Physical Descriptions
+##### Colors
+####### Hues
+- bogala: blue
+- marilo: yellow
+- garaso: green
+- rosado: pink
+- rogosa: red
+##### Values
+- neroto: black
+- gariso: grey 
+- guari: white 
+###### Saturations
+- sature: saturation 
+- pokako: unsaturated
+##### Sizes
 #### Comparative
-- **sama:** similarity or something that is similar 
+- **sama:** similar 
+- **lesu:** less 
+- **mosa:** more 
 ---
 ### Process Entities
 #### Copular
 - **sate**: being
 - **sesu**: state
 #### Actions
-- **kiki:** refer to the movement to a specific position
+- **gona:** refer to the movement to a specific position
 - **kore**: running
 - **ruku**: walking
 - **fosu:** fix
 - **kone**: returning
-- **turi**: changing
+- **turi**: changing/ change
 - **mate**: waiting/stopping
 - **geta**: something you got
 - **dabure**: silence. Silence as a state or process
+- **guoka**: work
 - **goke**: joke. Joke as an event
 - **loki**: look. Look as the act of looking
 - **kareto**: creation. Creation as a process
 - **dona:** gift
 - **kuta:** song 
+- **fila**: feeling
+- **gaca**: understanding
+---
 ### Abstract Entities
 - **kosa**: unknown thing
 - **reale**: reality
 - **teno**: possession
 - **raeso**: reason
 - **rala**: relation
+---
 ### Possibility Entities
 - **guane**: something wanted
 - **nese**: something needed
 - **pomo**: permission
-### Social / Functional Entities
-- **guoka**: work
+---
 ### Grammatical entities
 #### Auxiliary verbs
 - **ni lica**: voice modifier: invert the subject with the direct object, and the object with the subject
@@ -180,10 +204,10 @@
 - **le:** third person pronoun 
 - **ti**: "it". Used for unknown things or in substitution of something already mentioned 
 #### Possessive
-- **mio:**  first person  
-- **tuo:** second person 
-- **leo:** third person  
-- **tio:** "ti" possessive 
+- **mia:**  first person  
+- **tua:** second person 
+- **lea:** third person  
+- **tia:** "ti" possessive 
 ---
 ### Deixis
 - **tei:** this, the. Near to the speaker, also work as demonstrative of prominence
@@ -229,8 +253,8 @@
 - **ra:**  A outside B
 - **ru:**  A above B 
 - **to:**  A below B
-- **ba:**  A back to B 
-- **fo:**  A in front of B
+- **ba:**  A back/at the end of B 
+- **fo:**  A in front/at the beginning  of B
 - **ci:** A next to/around B
 #### Direction
 - **ki:** A goes toward B 
@@ -240,7 +264,8 @@
 - **du:** A is possessed by B / B have A 
 - **su:** A possesses B
 - **fa:** A is about B 
-- **sa:** A is like/similar to B
+- **ku**: A is like/similar to B
+- **sa:** A taking the role of B 
 #### Cause and effect
 - **ro:** A for/because B. The reason of A is B 
 - **ne:** A when/at B. A at the time of B
