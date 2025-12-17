@@ -1,11 +1,13 @@
 # Quickref
 ---
-## Words
----
-### Objects
+### Things
+#### Objects
+- **kibodo:** keyboard
+- **mouse:** mouse (the thing that you use on your computer, no the animal)
 #### Body parts
 - **boru**: mind
 #### Arquitecture
+- **kasaca**: house, home 
 - **getera**: gate, door
 
 ---
@@ -145,10 +147,10 @@
 - **ruku**: walking
 - **fosu:** fix
 - **kone**: returning
-- **turi**: changing/ change
+- **turi**: changing/change
 - **mate**: waiting/stopping
 - **geta**: something you got
-- **dabure**: silence. Silence as a state or process
+- **dabure**: silence. Silence as a state 
 - **guoka**: work
 - **goke**: joke. Joke as an event
 - **loki**: look. Look as the act of looking
@@ -157,6 +159,7 @@
 - **kuta:** song 
 - **fila**: feeling
 - **gaca**: understanding
+- **sapa**: sleep
 ---
 ### Abstract Entities
 - **kosa**: unknown thing
@@ -224,8 +227,6 @@
 - **fu:** tense specifier particle: future  
 ---
 ### Aspect 
-- **te:**  iniziative 
-- **ge:** terminative
 - **na:** imperfect, continuous 
 ---
 ### Sentences modifier
