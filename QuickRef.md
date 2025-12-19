@@ -20,11 +20,11 @@
 - **cidari**: left
 - **cikosi**: right
 #### Directions
-- **kini: in, inside 
+- **kini**: in, inside 
 - **kipa:** out, outside
 - **labe:** exit 
 - **tine:** entry
-#### Space/Time
+#### Space/              Time
 - **cito**: position
 - **pase**: space
 - **pasecito**: position in space
@@ -44,17 +44,17 @@
 - **soira**: second
 - **soimita**: half of second
 - **daite**: day
+- **daifore**: tomorrow
+- **daibare**: yesterday 
 - **daimita**: half-day
 - **noite**: night
 - **noimita**: half-night
 - **guise**: week
-- **guitesa**: weekday
-- **guigedo**: weekend
+- **guisa**: weekday
+- **guido**: weekend
 - **meiso**: month
 - **naiso**: year
-- **naigedo**: end-of-year
-- **daibare**: yesterday
-- **daifore**: tomorrow
+- **naido**: end-of-year
 ---
 ### Quantitative Entities
 - **masa:** all
@@ -116,9 +116,8 @@
 - **deci**: saying
 ---
 ### Descriptive terms
-#### Physical Descriptions
-##### Colors
-####### Hues
+#### Colors
+##### Hues
 - bogala: blue
 - marilo: yellow
 - garaso: green
@@ -131,11 +130,16 @@
 ###### Saturations
 - sature: saturation 
 - pokako: unsaturated
-##### Sizes
 #### Comparative
-- **sama:** similar 
-- **lesu:** less 
-- **mosa:** more 
+- **sama**: similar 
+- **lesu**: less 
+- **mosa**: more 
+
+#### Size
+- **biga**: big
+- **cisa**: small
+- **fakua**: frequently 
+
 ---
 ### Process Entities
 #### Copular
@@ -250,13 +254,14 @@
 - **co:** XOR relationship between nouns
 - **ga:**  A is with B 
 #### Position
-- **be:**  A inside B
-- **ra:**  A outside B
-- **ru:**  A above B 
+- **ne**:  A in the same position than B
+- **nu**: A inside B
+- **ra**:  A outside B
+- **ru**:  A above B 
 - **to:**  A below B
-- **ba:**  A back/at the end of B 
-- **fo:**  A in front/at the beginning  of B
-- **ci:** A next to/around B
+- **ba**:  A back/at the end of B 
+- **fo**:  A in front/at the beginning  of B
+- **ci**: A next to/around B
 #### Direction
 - **ki:** A goes toward B 
 - **de:** A originates from B 
@@ -269,4 +274,4 @@
 - **sa:** A taking the role of B 
 #### Cause and effect
 - **ro:** A for/because B. The reason of A is B 
-- **ne:** A when/at B. A at the time of B
+- **be:** A after B in time context 
