@@ -8,7 +8,6 @@
 - i
 - o
 - u
-
 ## Consonants (13)
 - m
 - n
@@ -29,7 +28,7 @@
 
 |             | Labial | Labiodental | Dental | Alveolar | Post-Alveolar | Velar |
 | ----------- | ------ | ----------- | ------ | -------- | ------------- | ----- |
-| Nasal       | m      |             |        | n        |               |       |
+| Plosive     | m      |             |        | n        |               |       |
 | Oclusive    | p      |             |        | t        |               | k     |
 | Fricative   | b      | f           | d      | s        |               | g     |
 | Affricative |        |             |        |          | c             |       |
