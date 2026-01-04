@@ -55,11 +55,15 @@
 - **soira**: second
 - **soimita**: half of second
 - **daite**: day
+- **daise**: morning
+- **daimita**: half-day
+- **daido**: afternoon
 - **daifore**: tomorrow
 - **daibare**: yesterday 
-- **daimita**: half-day
 - **noite**: night
+- **noise**: early in the night
 - **noimita**: half-night
+- **noide**: dawn
 - **guise**: week
 - **guisa**: weekday
 - **guido**: weekend
@@ -81,6 +85,7 @@
 #### Plurals 
 - **nani**: more than one but not all (any)
 - **sani**: generic plural 
+- **solo**: singular specifier (in case you want to emphisize)
 ---
 ### Natural Entities
 #### Organisms
@@ -141,6 +146,7 @@
 - **mosa**: more 
 - **tara**: different
 #### Magnitudes
+- **moune**: amount
 - **sisa**: size
 - **biga**: big
 - **mala**: small
@@ -278,6 +284,7 @@
 - **poi**: a little bit of
 - **mae**: more / the most 
 - **pae**: less 
+- **kae**: equal
 - **di**: than 
 ---
 ### Prepositions
@@ -294,7 +301,7 @@
 - **nu**: A inside B
 - **su**:  A outside B
 - **ru**:  A above B 
-- **do**:  A below B
+- **re**:  A below B
 - **ba**:  A back/at the end of B 
 - **fo**:  A in front/at the beginning  of B
 - **ci**: A next to/around B
@@ -303,6 +310,7 @@
 - **de**: A originates from B
 - **mu**: A moves through/across B 
 #### Composition 
+- **do**: A is part of B / A is made of B / B is composed of A 
 - **du**: A is possessed by B / B have A 
 - **su**: A possesses B
 - **fa**: A is about B 
