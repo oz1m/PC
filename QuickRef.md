@@ -135,8 +135,9 @@
 - **rike:** badness
 - **loba**: love
 ### Linguistic Entities
+- **toki**: language
+- **tokiba**: conversation
 - **kati:** question
-- **toki**: conversation
 - **kotoba**: word
 - **deci**: saying
 ---
@@ -144,14 +145,16 @@
 #### Descriptive Increments
 #### Colors
 ##### Hues
-- **bogala**: blue
-- **marilo**: yellow
-- **garaso**: green
-- **rosado**: pink
-- **rogosa**: red
+- **roasa**: red
+- **roage**: orange
+- **mailo**: yellow
+- **gaeso**: green
+- **saina**: cyan
+- **boule**: blue
+- **poupa**: purple
 ##### Values
-- **neroto**: black
-- **gariso**: grey 
+- **neoto**: black
+- **gaiso**: grey 
 - **guari**: white 
 ###### Saturations
 - **sature**: saturation 
@@ -167,6 +170,8 @@
 - **lauka**: lack of something
 - **moune**: amount
 - **sisa**: size
+- **muito**: abundance
+- **leuso**: lack
 - **biga**: big
 - **mala**: small
 - **soku**: velocity
@@ -235,8 +240,8 @@
 ---
 ### Grammatical entities
 #### Auxiliary verbs
-- **ni lica**: voice modifier: invert the subject with the direct object, and the object with the subject
-- **ni keca**: voice modifier: invert the subject with the indirect object, and the object with the subject
+- **ni kea**: voice modifier: invert the subject with the indirect object, and the object with the subject
+- **ni toa**: voice modifier: invert the subject with the direct object, and the object with the subject
 ---
 ### Numbers
 - **nona**: 0
@@ -313,13 +318,13 @@
 - **di**: than 
 ---
 ### Prepositions
-- **da**: chain resetter
+- **da**: chain reset particle
 #### Agent
 - **bi**: A is made by B. B did A 
 - **ge**: A is using/wearing B 
 - **te**: A is being used by B
 #### Position
-- **ne**: A in the position of B. This can be context position or physical position 
+- **ne**: A in the position of B. This can be context, physical, or time position
 - **nu**: A inside B
 - **su**: A outside B
 - **ru**: A above B 
@@ -327,6 +332,8 @@
 - **ba**: A back/at the end of B 
 - **fo**: A in front/at the beginning  of B
 - **ci**: A next to/around B
+- **ku**: A is as long as B. B define the duration/size/long of A 
+- **be**: A after B 
 #### Direction
 - **ki**: A goes toward B 
 - **de**: A originates from B
@@ -341,6 +348,4 @@
 - **se** A: is like/similar to B
 #### Cause and effect/Time relations
 - **ra**: A for/because B. The reason of A is B 
-- **ku**: A is as long as B in time context. B define the duration of A 
-- **be**: A after B in time context 
-- **gu**: A when/in B in time context
+- **gu**: A when/in B in time context (if you want to specify in time context)
