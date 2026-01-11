@@ -2,13 +2,16 @@
 
 ---
 ## Vowels (5)
-
+Vowels are the 5 neutral vowels.
 - a
 - e
 - i
 - o
 - u
+## Diphthongs 
+All vowels can be followed by a different vowel, only two vowels can be at the core of a syllable. 
 ## Consonants (13)
+Some consonants are represented by their own symbol at the IPA chart. The ones that are not, have the correct symbol next to it. 
 - m
 - n
 - p
