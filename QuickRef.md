@@ -7,8 +7,13 @@
 - **sosoe**: solid
 - **gasoe**: gas
 #### Objects
+- **rougo**: coat 
+- **roupa**: clothe 
+- **kenuci**: energy
 - **boki**: container
 - **kome**: food
+- **ganaci**: story 
+- **buki**: book
 - **cirudo**: protection
 - **moni**: money 
 - **kibodo**: keyboard
@@ -16,16 +21,22 @@
 - **koputa**: computer
 #### Vehicle
 - **karato**: car
+- **tareo**: train
 #### Body parts
 - **boru**: mind
 #### Arquitecture
+- **renaga**: brick
+- **sakola**: school
+- **sareta**: street
 - **kasaca**: house, home 
 - **getera**: gate, door
-
+#### Environment
+- **monata**: mountain
 ---
 ### Spatial Entities
 #### Position
 - **soma**: any position
+- **raki**: here
 - **rupa**: up
 - **donu**: down
 - **bare**: back
@@ -39,6 +50,7 @@
 - **tine**: entry
 #### Space/Time
 - **cito**: position
+- **beto**: event
 - **pase**: space
 - **cika**: time
 - **tese**: start. Start as a point in a process or space
@@ -65,6 +77,8 @@
 - **noimita**: half-night
 - **noide**: dawn
 - **guise**: week
+- **guifore**: next week
+- **guibare**: last week 
 - **guisa**: weekday
 - **guido**: weekend
 - **meiso**: month
@@ -78,14 +92,14 @@
 - **mita**: half
 - **kuti:** small amount, less than half 
 - **nona**: nothing
+- **nani**: more than one but not all (any)
 ##### Numeric proportions
 - **toeto**: 1/3
 - **foeto**: 1/4
 - **caeto**: 1/8
 #### Plurals 
-- **nani**: more than one but not all (any)
-- **sani**: generic plural 
-- **solo**: singular specifier (in case you want to emphisize)
+- **sai**: generic plural. More than one
+- **solo**: singular specifier (in case you want to emphasize)
 ---
 ### Natural Entities
 #### Organisms
@@ -97,6 +111,7 @@
 - **peteo**: pet
 #### Life/Death States
 - **biba**: life
+- **naise**: born 
 - **cisita**: death
 ---
 ### Social Entities 
@@ -104,6 +119,7 @@
 - **kano**: person/human kind 
 - **mama**: mother
 - **papa**: father
+- **nimana**: uncle/aunt
 - **nisa**: sibling
 - **nisalesu**: only child
 - **todoci**: friend/ally
@@ -117,6 +133,7 @@
 - **kora**: sadness
 - **pona**: goodness
 - **rike:** badness
+- **loba**: love
 ### Linguistic Entities
 - **kati:** question
 - **toki**: conversation
@@ -144,8 +161,10 @@
 - **sama**: similar 
 - **lesu**: less 
 - **mosa**: more 
-- **tara**: different
+- **tara**: different/other
+- **kumo**: common
 #### Magnitudes
+- **lauka**: lack of something
 - **moune**: amount
 - **sisa**: size
 - **biga**: big
@@ -153,11 +172,13 @@
 - **soku**: velocity
 - **sofore**: fast
 - **sobare**: slow
-- **fakua**: frequently 
+- **fakua**: frequency
 #### Usability 
+- **kasa**: consistent, something that doesn't change 
 - **pora**: portable, handleable
 - **sareto**: secret 
 - **noreto**: non-secret 
+- **maigo**: magic 
 
 ---
 ### Process Entities
@@ -165,7 +186,7 @@
 - **sate**: being
 - **sesu**: state
 #### Actions
-- **gona**: movement of the subject to other location
+- **gone**: movement of the subject to other location
 - **mobe**: movement of a object by the subject 
 - **kore**: running
 - **ruku**: walking
@@ -181,16 +202,17 @@
 - **pone**: something placed
 - **take**: something took
 - **kareto**: creation. Creation as a process
-- **dona:** gift
+- **done:** gift
 - **telo**: a said 
 - **kuta:** song 
 - **fila**: feeling
 - **gaca**: understanding
 - **sapa**: sleep
 - **paiko**: play, execution,  
-- **luka**: look, how something looks like 
+- **luka**: look, how something looks like. Appearance. 
 - **buita**: buy
 - **sele**: sell
+- **case**: chase, hunt 
 ---
 ### Abstract Entities
 - **kosa**: unknown thing
@@ -268,16 +290,19 @@
 - **na**: imperfect, continuous 
 ---
 ### Sentences modifier
+- **la**: subject specifier (only if the subject is not obvious) 
 - **ke**: patient, indirect object specifier.
 - **to**: destination, direct object specifier. 
 - **ko**: relative clause closing marker 
 ---
 ### Conjunctions
-- **so**: causal forward link. Cause -> effect: 
-- **bo**: causal backward link. Effect -> cause: 
-- **ma**: contrastive adversative, opposition between both sentences:
-- **ta**: sequential temporal link:
-- **fi**: if-statement. Use it with "so" to create subordinator composed sentences
+- **pia**: generic relationship
+- **ro**: election relationship 
+- **so**: causal forward link. Cause -> effect 
+- **bo**: causal backward link. Effect -> cause
+- **ma**: opposition between both sentences
+- **ta**: sequential temporal link
+- **fi**: if 
 ---
 ### Comparation 
 - **mui**: a lot of / very much of
@@ -288,22 +313,19 @@
 - **di**: than 
 ---
 ### Prepositions
+- **da**: chain resetter
 #### Agent
 - **bi**: A is made by B. B did A 
-- **ge**: A is using B 
-- **co**: A is being used by B
-#### Grouping
-- **ro**: OR relationship 
-- **da**: AND relationship 
-- **ga**:  A is with B 
+- **ge**: A is using/wearing B 
+- **te**: A is being used by B
 #### Position
-- **ne**:  A in the position of B. This can be context position or physical position 
+- **ne**: A in the position of B. This can be context position or physical position 
 - **nu**: A inside B
-- **su**:  A outside B
-- **ru**:  A above B 
-- **re**:  A below B
-- **ba**:  A back/at the end of B 
-- **fo**:  A in front/at the beginning  of B
+- **su**: A outside B
+- **ru**: A above B 
+- **re**: A below B
+- **ba**: A back/at the end of B 
+- **fo**: A in front/at the beginning  of B
 - **ci**: A next to/around B
 #### Direction
 - **ki**: A goes toward B 
@@ -311,6 +333,7 @@
 - **mu**: A moves through/across B 
 #### Composition 
 - **do**: A is part of B / A is made of B / B is composed of A 
+- **ga**:  A is with B 
 - **du**: A is possessed by B / B have A 
 - **su**: A possesses B
 - **fa**: A is about B 
