@@ -22,7 +22,7 @@ The tense is a marker that you put next to the verb noun:
 > "Mi ni kome **fu**" -> "I eat in the future" - "I will eat"
 ---
 ## Aspects
-There are 4 aspects: 
+There are 2 aspects: 
 - omitted: perfective 
 - **na**: imperfective 
 
@@ -56,11 +56,11 @@ You can link verbs together to modify mood:
 > "tu **ni nese ni gona**" -> "You **need to go**"
 
 ### Voice modifier
-Normal verbs modify the mood, but there are two special verbs just used to modify the voice: 
-- **ni keca**: Passive indirect object 
-- **ni toca**: Passive direct object 
+Normal verbs modify the mood, but there are two particles used to modify the voice: 
+- **ni kea**: Passive indirect object 
+- **ni toa**: Passive direct object 
 
 Examples: 
-> "patao **ni keca** ni kome pa bi mi" -> "The duck was eaten by me"
-> "kasaca **ni toca** ni gona pa bi mi" -> this doesn't have a literal translation in English but it should be something like "The house was go by me"
+> "patao **ni kea** kome pa bi mi" -> "The duck was eaten by me"
+> "kasaca **ni toa** gona pa bi mi" -> this doesn't have a literal translation in English but it should be something like "The house was go by me"
 

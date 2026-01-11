@@ -6,12 +6,11 @@ My friends work at night. Sometimes they don't want to eat, but they always drin
 Sani todoci mio ni guoka ne noite. nani daite, Sani le no ni guane ni kome; ma, masa cika, sani le ni kome ke guare. fi, Kome ni kini cikae; so, sani le copi; bo, sani le ni pomo ni mate. Mi ni kati pa ke kosa ka keca ni kuta to ko; ta, kanao mio ni kore ki getera.
 
 ---
-> fi so, Tu ni fila fu sa noe ke cae kosa
+> Tu ni fila fu sa noe ke cae kosa
 > That's the first thing you would feel 
 
-- Fi so -> probable sentence
 - tu -> subject: second person 
-- ni fila fu -> verb: "to feel", future tense
+- ni pasa ni fila fu -> verb: "to feel" in a "probably" mood, future tense
 - sa noe -> describing the action: "as first"
 - ke cae kosa -> direct object: that thing 
 
@@ -63,8 +62,3 @@ Sani todoci mio ni guoka ne noite. nani daite, Sani le no ni guane ni kome; ma, 
 - ra noe cito -> because of the one position / for the first place
 - go readi fu -> be ready 
 - suere pona -> good luck
-
-
-
-
-

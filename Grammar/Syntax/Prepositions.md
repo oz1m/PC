@@ -24,7 +24,7 @@ You can put prepositions over prepositions, this is called "chaining preposition
 
 > "kasaca du nisa du mi" -> "House of brother of me" or "My brother's house"
 
-Notice that prepositions only affect the noun right behind it; so, in this last example, the "du mi" is describing "nisa", not "kasaca". 
+Prepositions only affect the noun right behind it; so, in this last example, the "du mi" is describing "nisa", not "kasaca". 
 
 If you want to add other preposition to the main noun "kasaca", you need to use "da". This particle reset the chain of prepositions: 
 
@@ -41,7 +41,7 @@ A nominal sentence is a sentence without infinitive verb form. This means that e
 
 > "Kasaca neroto du mi da fo monata" -> "My black house in front of the mountain"
 
-You should interpret nominal sentences as true in all its parts, the speaker is affirming that information. Then, use the imperfect form of "to be" as the implicit verb: 
+You should interpret nominal sentences as grammatically true in all its parts, the speaker is affirming that information. Then, use the imperfect form of "to be" as the implicit verb: 
 
 - "Kasaca ni sate na ke neroto" -> the house is black
 - "Kasaca ni sate na ke du mi" -> the house is mine  
