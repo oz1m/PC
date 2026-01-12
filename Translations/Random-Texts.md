@@ -3,7 +3,7 @@
 
 My friends work at night. Sometimes they don't want to eat, but they always drink water. If the cook arrives early, then everyone is happy because they can rest. I ask who is singing, and my dog runs to the door.
 
-Sani todoci mio ni guoka ne noite. nani daite, Sani le no ni guane ni kome; ma, masa cika, sani le ni kome ke guare. fi, Kome ni kini cikae; so, sani le copi; bo, sani le ni pomo ni mate. Mi ni kati pa ke kosa ka keca ni kuta to ko; ta, kanao mio ni kore ki getera.
+sai todoci mio ni guoka ne noite. nani daite, sai le no ni guane ni kome; ma, masa cika, sai le ni kome ke guare. fi, Kome ni kini cikae; so, sai le copi; bo, sai le ni pomo ni mate. Mi ni kati pa ke kosa ka keca ni kuta to ko; ta, kanao mio ni kore ki getera.
 
 ---
 > Tu ni fila fu sa noe ke cae kosa
@@ -30,7 +30,7 @@ Sani todoci mio ni guoka ne noite. nani daite, Sani le no ni guane ni kome; ma, 
 - Mi -> Subject: first person
 - ni gona na -> Verbal form: to go, imperfect
 - ra (ni sapa ko) -> action happened because: "to sleep"
-- to kasaca -> indirect object destination: house/home
+- to kasaca -> in`direct object destination: house/home
 
 ---
 > "Nisa. Tei pase muito cirudo. fi, Tu ni pone ke koputa pora to soma pase; so, Nona kano ni take." 
@@ -51,13 +51,13 @@ Sani todoci mio ni guoka ne noite. nani daite, Sani le no ni guane ni kome; ma, 
 - ni take -> Verbal form: to take 
 
 ---
-> "daifore, Kano mae sofare di sani tu ni bosa ni kore fu ra noe cito. go readi fu. Suere pona"
+> "daifore, Kano mae sofare du sai tu ni bosa ni kore fu ra noe cito. go readi fu. Suere pona"
 > "Tomorrow, the faster of you will have to run for the first place. Be ready, good luck"
 
 - daifore -> tomorrow
 - kano -> human
 - mae sofare -> more faster / faster
-- di sani tu -> of yall
+- du sai tu -> of yall
 - ni bosa ni kore fu -> will have to run 
 - ra noe cito -> because of the one position / for the first place
 - go readi fu -> be ready 
